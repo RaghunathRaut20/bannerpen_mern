@@ -16,5 +16,5 @@ app.use(express.json());
 app.use(require('./router/auth'));
 
 app.listen(port, (err) => {
-    console.log(`APP is running on  ${port}`)
+    console.log(`APP is running onq  ${port}`)
 })
